@@ -16,6 +16,7 @@
 		DCE7938127FD072C00A4514D /* HackwichElevenTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = DCE7938027FD072C00A4514D /* HackwichElevenTests.swift */; };
 		DCE7938B27FD072C00A4514D /* HackwichElevenUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = DCE7938A27FD072C00A4514D /* HackwichElevenUITests.swift */; };
 		DCE7938D27FD072C00A4514D /* HackwichElevenUITestsLaunchTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = DCE7938C27FD072C00A4514D /* HackwichElevenUITestsLaunchTests.swift */; };
+		DCE7939C27FD0DAB00A4514D /* Restaurant.swift in Sources */ = {isa = PBXBuildFile; fileRef = DCE7939B27FD0DAB00A4514D /* Restaurant.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -49,6 +50,7 @@
 		DCE7938627FD072C00A4514D /* HackwichElevenUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = HackwichElevenUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		DCE7938A27FD072C00A4514D /* HackwichElevenUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HackwichElevenUITests.swift; sourceTree = "<group>"; };
 		DCE7938C27FD072C00A4514D /* HackwichElevenUITestsLaunchTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HackwichElevenUITestsLaunchTests.swift; sourceTree = "<group>"; };
+		DCE7939B27FD0DAB00A4514D /* Restaurant.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Restaurant.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -102,6 +104,7 @@
 				DCE7936927FD072900A4514D /* AppDelegate.swift */,
 				DCE7936B27FD072900A4514D /* SceneDelegate.swift */,
 				DCE7936D27FD072900A4514D /* ViewController.swift */,
+				DCE7939B27FD0DAB00A4514D /* Restaurant.swift */,
 				DCE7936F27FD072900A4514D /* Main.storyboard */,
 				DCE7937227FD072C00A4514D /* Assets.xcassets */,
 				DCE7937427FD072C00A4514D /* LaunchScreen.storyboard */,
@@ -258,6 +261,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				DCE7939C27FD0DAB00A4514D /* Restaurant.swift in Sources */,
 				DCE7936E27FD072900A4514D /* ViewController.swift in Sources */,
 				DCE7936A27FD072900A4514D /* AppDelegate.swift in Sources */,
 				DCE7936C27FD072900A4514D /* SceneDelegate.swift in Sources */,
